@@ -3,7 +3,7 @@
 # Part 1: USGS Earthquakes
 Made a leaflet.js map using USGS' Earthquake's free API. This dataset pulls the past week (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
-![1-Logo](Images/leaflet v1 map.png)
+![first-map](Images/leaflet v1 map.jpg)
 
 # Part 2: Tectonic Plates Layer
 Added in a tectonic plates layer from Fraxen (see: https://github.com/fraxen/tectonicplates). 
